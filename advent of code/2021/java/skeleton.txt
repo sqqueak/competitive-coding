@@ -1,0 +1,48 @@
+/**
+ * Advent of Code 2021 - Day XX: XXXX
+ * XX December 2021
+ * 
+ * part 1: 
+ * part 2: 
+ */
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class dayX {
+
+    public static void main(String[] args) throws FileNotFoundException {
+        part1();
+        //part2();
+    }
+
+    public static void part1() throws FileNotFoundException {
+        File input = new File("inputs/dayX.txt");
+
+        Scanner sc = new Scanner(input);
+        String[] inputs = sc.nextLine().split(",");
+
+        ArrayList<Integer> XX = new ArrayList<>();
+            for(String in : inputs) {
+            XX.add(Integer.parseInt(in));
+        }
+
+        sc.close();
+    }
+
+    public static void part2() throws FileNotFoundException {
+        File input = new File("inputs/dayX.txt");
+
+        Scanner sc = new Scanner(input);
+        String[] inputs = sc.nextLine().split(",");
+
+        ArrayList<Integer> XX = new ArrayList<>();
+            for(String in : inputs) {
+            XX.add(Integer.parseInt(in));
+        }
+
+        sc.close();
+    }
+}
