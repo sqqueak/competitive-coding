@@ -1,7 +1,5 @@
 // Report Repair
 
-package day1;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

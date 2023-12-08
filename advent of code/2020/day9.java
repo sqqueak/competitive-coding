@@ -1,7 +1,5 @@
 // Encoding Error
 
-package day9;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

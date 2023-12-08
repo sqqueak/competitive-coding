@@ -2,8 +2,6 @@
  * 18 November 2021
  */
 
-package day22;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.LinkedList;

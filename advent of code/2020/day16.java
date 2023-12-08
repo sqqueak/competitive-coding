@@ -2,8 +2,6 @@
  * 10-15 November 2021, don't remember exactly :(
  */
 
-package day16;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
