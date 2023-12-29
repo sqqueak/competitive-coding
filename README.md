@@ -1,7 +1,25 @@
-# sum
+# summary
+12/2023
+- started learning c++
+- averaging top 2000 for advent of code, first 10 days (dropped out for final exams)
+- finished: (24 total)
+    - 18 advent of code
+    - 6 atcoder grey
+
+09/2023
+- 1745 -> 1780 on leetcode
+- finished: (12 total)
+    - 2 leetcode easy, 9 medium, 1 hard
+
+08/2023
+- 1668 -> 1745 on leetcode
+- finished: (69 total)
+    - 9 leetcode easy, 55 medium, 5 hard
+
 07/2023
-- finished: (29 total)
-    - 15 leetcode easy, 14 medium
+- 1681 -> 1668 on leetcode
+- finished: (45 total)
+    - 22 leetcode easy, 22 medium, 1 hard
 
 06/2023
 - placed 1612 on leetcode, climbed to 1681
