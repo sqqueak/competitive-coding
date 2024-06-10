@@ -1,4 +1,4 @@
-# 05/2023
+#  2023 may 25
 
 n, x = list(map(int, input().split(" ")))
 a = list(map(int, input().split(" ")))

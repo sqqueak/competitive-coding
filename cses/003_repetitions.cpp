@@ -1,4 +1,4 @@
-// 06/2023
+// 2023 jun 8
 
 #include <iostream>
 #include <algorithm>
