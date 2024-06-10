@@ -1,4 +1,4 @@
-// 2023-12-25
+// 2023 dec 25
 
 #include <iostream>
 
