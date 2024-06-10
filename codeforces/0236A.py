@@ -1,3 +1,5 @@
+#  2022 sep 10
+
 n = str(input())
 d = {}
 for ch in n:

@@ -1,5 +1,5 @@
+// 2022 sep 18
 // USACO Guide
-// September 18 2022
 
 #include<iostream>
 #include<fstream>

@@ -1,3 +1,5 @@
+// 2022 sep 10
+
 import java.util.*;
 
 public class PetyaAndStrings {

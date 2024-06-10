@@ -1,3 +1,5 @@
+#  2023 may 26
+
 n, t = list(map(int, input().split(" ")))
 books = list(map(int, input().split(" ")))
 
