@@ -1,3 +1,5 @@
+#  2023 may 29
+
 N = int(input())
 x = list(map(int, input().split(" ")))
 y = list(map(int, input().split(" ")))

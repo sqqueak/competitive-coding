@@ -1,5 +1,5 @@
+// 2022 sep 10
 // USACO Guide
-// September 10 2022
 
 #include <iostream>
 using namespace std;
